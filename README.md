@@ -16,9 +16,7 @@ A special thank you to chatGPT for providing me with these project ideas.
 
 ## Quick reference table:
 
- 1. **Beginner**: Start with the Aircraft Maintenance Logger or Inventory Management Systems.
-2. **Intermediate**: Transition to the Sensor Data Simulator or Predictive Maintenance Alert System.
-3. **Advanced**: Tackle the Real-Time Monitor or Maintenance Scheduler.
+ 1. [[Very Hard]: Embedded Avionics Sybsystem Prototype](#v2)
 
 ## Beginner level projects:
 
