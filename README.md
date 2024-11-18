@@ -18,6 +18,8 @@ A special thank you to chatGPT for providing me with these project ideas.
 
  1. [[Very Hard]: Embedded Avionics Sybsystem Prototype](#v2)
 
+## Supporting tools:
+
 ## Beginner level projects:
 
 ### Aircraft Maintenance Logger (**Not started**) {#e1}
