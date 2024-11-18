@@ -4,7 +4,7 @@ A special thank you to chatGPT for providing me with these project ideas.
 
 ## Chosen Aircraft: Cessna 172
 
-- [Aircraft Maintenance Manual (AMM)]([https://wtruib.ru/boeing_737/amm/](https://www.ameacademy.com/pdf/cessna/Cessna_172R_1996on_MM_C172RMM.pdf))
+- [Aircraft Maintenance Manual (AMM)](https://www.ameacademy.com/pdf/cessna/Cessna_172R_1996on_MM_C172RMM.pdf)
 - [Illustrated Parts Catalog (IPC)](http://www.aeroelectric.com/Reference_Docs/Cessna/cessna-maintenance-manuals/Cessna%20172%20Parts%20Catalog%20(1963-1974).pdf)
 - [Flight Crew Operating Manual (FCOM)](https://nova.aero/repository/Manuals/C172/FOM%20C-172s.pdf)
 
@@ -16,7 +16,9 @@ A special thank you to chatGPT for providing me with these project ideas.
 
 ## Quick reference table:
 
-
+ 1. **Beginner**: Start with the Aircraft Maintenance Logger or Inventory Management Systems.
+2. **Intermediate**: Transition to the Sensor Data Simulator or Predictive Maintenance Alert System.
+3. **Advanced**: Tackle the Real-Time Monitor or Maintenance Scheduler.
 
 ## Beginner level projects:
 
