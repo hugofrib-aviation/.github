@@ -2,7 +2,7 @@
 
 A special thank you to chatGPT for providing me with these project ideas.
 
-## Chosen Aircraft: Cessna 172
+## Chosen Aircraft: Cessna 172 (1970)
 
 - [Aircraft Maintenance Manual (AMM)](https://www.ameacademy.com/pdf/cessna/Cessna_172R_1996on_MM_C172RMM.pdf)
 - [Illustrated Parts Catalog (IPC)](http://www.aeroelectric.com/Reference_Docs/Cessna/cessna-maintenance-manuals/Cessna%20172%20Parts%20Catalog%20(1963-1974).pdf)
